@@ -38,3 +38,7 @@ FUNCTION name(args1, args2) RETURN data_type
 
 PROCEDURE procedure(args1, args2) RETURN data_type
 ```
+```python
+print()
+
+```
