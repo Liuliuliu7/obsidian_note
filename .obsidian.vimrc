@@ -3,9 +3,6 @@ set tabstop=4
 
 imap jj <C-[>
 
-
-
-nmap <space><CR> :nohlsearch<CR>
 map k gj
 map j gk
 map K 5k
@@ -16,5 +13,11 @@ nmap , o<Esc>k
 nmap ; :
 nmap b B
 nmap w W
+
+exmap surroundStar :surround * *
+map <C-i> :surroundStar
+
+exmap surroundDStar :surround ** **
+map <A-i> :surroundDStar
 
 

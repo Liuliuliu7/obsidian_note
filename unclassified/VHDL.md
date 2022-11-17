@@ -1,6 +1,6 @@
 # VHDL 语法
 
-### 实体
+### 实体 [test]([obsidian：双向链接的基本用法 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/499417467))
 ```vhdl
 entity entity_name is 
     port(
@@ -12,6 +12,8 @@ entity entity_name is
         );
 end m;
 ```
+
+^349ac9
 
 ### 结构体
 
@@ -37,8 +39,4 @@ end architecture_name;
 FUNCTION name(args1, args2) RETURN data_type
 
 PROCEDURE procedure(args1, args2) RETURN data_type
-```
-```python
-print()
-
 ```
