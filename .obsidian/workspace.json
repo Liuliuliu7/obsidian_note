@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "b6f106999b23813b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d96665cd2ff9957e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c300673a42dc3b45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unclassified/VHDL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9eabdbdcce193a5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9de490f98497db9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb0570137fca348e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "589dfad6cd032bee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f9651d70f6232a4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "37abbc1ceb33ee4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32ae97ba76a5b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29eb2800b5e4b42f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "unclassified/VHDL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8c3828c633f790bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "89a3785f9bcc323a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "unclassified/VHDL.md"
+              }
+            }
+          },
+          {
+            "id": "dff9e6777ee8b00f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "dff9e6777ee8b00f",
+  "lastOpenFiles": [
+    "unclassified/js.md",
+    "unclassified/冯如杯天通中继数字孪生系统.md",
+    "unclassified/数学竞赛.md",
+    "unclassified/css.md",
+    "unclassified/电气大作业.md",
+    "unclassified/VHDL.md",
+    "unclassified/html.md",
+    "Pasted image 20221031202220.png",
+    "Pasted image 20221031223921.png",
+    "Pasted image 20221101003257.png"
+  ]
+}

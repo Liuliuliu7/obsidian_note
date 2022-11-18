@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "textFontFamily": "Consolas",
+  "monospaceFontFamily": "FiraCode Nerd Font",
+  "interfaceFontFamily": "Consolas",
+  "baseFontSize": 16,
+  "translucency": true,
+  "nativeMenus": false,
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian"
+}
