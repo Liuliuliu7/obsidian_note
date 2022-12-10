@@ -2,5 +2,8 @@
   "vimMode": true,
   "promptDelete": false,
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./assets"
 }

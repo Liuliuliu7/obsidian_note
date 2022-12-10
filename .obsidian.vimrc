@@ -7,8 +7,8 @@ map k gj
 map j gk
 map K 5k
 map J 5j
-nmap H ^
-nmap L $
+nmap H g^
+nmap L g$
 nmap , o<Esc>k
 nmap ; :
 nmap b B

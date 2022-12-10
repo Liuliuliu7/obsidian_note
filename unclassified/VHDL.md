@@ -13,7 +13,6 @@ entity entity_name is
 end m;
 ```
 
-^349ac9
 
 ### 结构体
 

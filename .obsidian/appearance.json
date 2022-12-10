@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "textFontFamily": "Consolas",
+  "textFontFamily": "华康手札体W5P,Comic Sans MS",
   "monospaceFontFamily": "FiraCode Nerd Font",
-  "interfaceFontFamily": "Consolas",
+  "interfaceFontFamily": "Consolas,Comic Sans MS",
   "baseFontSize": 16,
   "translucency": true,
   "nativeMenus": false,

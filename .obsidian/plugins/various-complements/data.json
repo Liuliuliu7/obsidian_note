@@ -21,14 +21,14 @@
   "propagateEsc": false,
   "enableCurrentFileComplement": true,
   "currentFileMinNumberOfCharacters": 0,
-  "onlyComplementEnglishOnCurrentFileComplement": false,
-  "enableCurrentVaultComplement": true,
+  "onlyComplementEnglishOnCurrentFileComplement": true,
+  "enableCurrentVaultComplement": false,
   "currentVaultMinNumberOfCharacters": 0,
   "includeCurrentVaultPathPrefixPatterns": "",
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
-  "enableCustomDictionaryComplement": false,
-  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "dict.md",
   "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
@@ -52,6 +52,222 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1668690259376
+        }
+      }
+    },
+    "Function": {
+      "Function": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669171468944
+        }
+      }
+    },
+    "process": {
+      "process": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669172041284
+        }
+      }
+    },
+    "\\frac{x_i-\\mu_i}{x_i}": {
+      "\\frac{x_i-\\mu_i}{x_i}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669172380816
+        }
+      }
+    },
+    "#####": {
+      "#####": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669173031317
+        }
+      }
+    },
+    "Learning": {
+      "Learning": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669368824013
+        }
+      }
+    },
+    "feature": {
+      "feature": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1669466444144
+        }
+      }
+    },
+    "scaling": {
+      "scaling": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669174828680
+        }
+      }
+    },
+    "\\mu": {
+      "\\mu": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669175401728
+        }
+      }
+    },
+    "\\varepsilon": {
+      "\\varepsilon": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1669175559197
+        }
+      }
+    },
+    "Gradient": {
+      "Gradient": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669175618273
+        }
+      }
+    },
+    "Descent": {
+      "Descent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669175620592
+        }
+      }
+    },
+    "example": {
+      "example": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669186924150
+        }
+      }
+    },
+    "function": {
+      "function": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1669264465603
+        }
+      }
+    },
+    "Feature": {
+      "Feature": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669274913121
+        }
+      }
+    },
+    "classify": {
+      "classify": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669297530344
+        }
+      }
+    },
+    "logistic": {
+      "logistic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669297518486
+        }
+      }
+    },
+    "regression": {
+      "regression": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669297526485
+        }
+      }
+    },
+    "choose": {
+      "choose": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669297617735
+        }
+      }
+    },
+    "classifier": {
+      "classifier": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669455106093
+        }
+      }
+    },
+    "large": {
+      "large": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669455120788
+        }
+      }
+    },
+    "Linear": {
+      "Linear": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669455271100
+        }
+      }
+    },
+    "hypothesis": {
+      "hypothesis": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669466455547
+        }
+      }
+    },
+    "value": {
+      "value": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669465392133
+        }
+      }
+    },
+    "sigmoid": {
+      "sigmoid": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669465640905
+        }
+      }
+    },
+    "layer": {
+      "layer": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669466435446
+        }
+      }
+    },
+    "hidden": {
+      "hidden": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669466431968
+        }
+      }
+    },
+    "complex": {
+      "complex": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669466452311
         }
       }
     }
